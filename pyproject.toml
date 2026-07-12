@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "accelerate>=1.14.0",
+    "matplotlib>=3.11.0",
     "tokenizers>=0.22.2",
     "torch>=2.12.1",
     "transformers>=5.13.0",
